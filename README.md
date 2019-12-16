@@ -9,6 +9,6 @@ Please find the Binary files specifically built for Hadoop 3.x on Windows 10 .
 
 # Requirements to run Hadoop 3.x on Windows 10
 1. JDK 1.8 installed
-2. Download the HadoopBinaryFiles.zip
+2. Download the **HadoopBinaryFiles.zip**
 3. Follow the steps indicated in my youtube video . ##TODO##
-4. Please note that there is a bug in Hadoop 3.2.1 (java.lang.UnsupportedOperationException). The issue is noted here https://issues.apache.org/jira/browse/HDFS-14890
+4. Please note that there is a **bug in Hadoop 3.2.1** (java.lang.UnsupportedOperationException). The issue is noted here [https://issues.apache.org/jira/browse/HDFS-14890]
